@@ -1,4 +1,4 @@
-lista = ['Dez', 'Nove', 'Oito', 'Sete', 'Seis', 'Katherine', 'Quatro', 'Três', 'Dois', 'Um']
+lista = ['Dez', 'Nove', 'Oito', 'Sete', 'Seis', 'Cinco', 'Quatro', 'Três', 'Dois', 'Um']
 i = len(lista)  #i = 10
 while i >= 1:
     print('Início do While')
